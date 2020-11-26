@@ -1,0 +1,21 @@
+{
+  "name": "node-readline-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanKr/node-readline-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanKr/node-readline-playground/issues"
+  },
+  "homepage": "https://github.com/NathanKr/node-readline-playground#readme"
+}
